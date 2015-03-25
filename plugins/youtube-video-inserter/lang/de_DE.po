@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YouTube Video Inserter v.1.2\n"
+"POT-Creation-Date: 2014-02-01 00:13+0100\n"
+"PO-Revision-Date: 2014-02-01 00:13+0100\n"
+"Last-Translator: UeberhammDesign <info@ueberhamm-design.de>\n"
+"Language-Team: UeberhammDesign <info@ueberhamm-design.de>\n"
+"Language: Deutsch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../index.php:36
+msgid "Insert YT Video"
+msgstr "YouTube Video hinzufügen"
+
+#: ../index.php:37
+msgid "Editor"
+msgstr "Editor"
+
+#: ../index.php:38 ../adminUI/settings.php:21
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: ../index.php:93
+msgid "YouTube Videos"
+msgstr "YouTube Videos"
+
+#: ../index.php:94
+msgid "YouTube Video"
+msgstr "YouTube Video"
+
+#: ../index.php:166
+msgid "Show the last uploaded videos."
+msgstr "Zeigt die zuletzt hinzugef&uuml;gten Videos an"
+
+#: ../index.php:171
+msgid "Last YouTube Videos"
+msgstr "Letzten YouTube Videos"
+
+#: ../index.php:181 ../index.php:281
+msgid "Title"
+msgstr "Titel"
+
+#: ../index.php:185 ../index.php:285
+msgid "Number of Videos"
+msgstr "Anzahl der VIdeos"
+
+#: ../index.php:266
+msgid "Show random videos "
+msgstr "Zeigt zufällige Videos an"
+
+#: ../index.php:271
+msgid "Random YouTube Videos"
+msgstr "Zufällige YouTube Videos"
+
+#: ../adminUI/default.php:43
+msgid "Your YouTube Videos"
+msgstr "Deine YouTube Videos"
+
+#: ../adminUI/default.php:58
+msgid "Options"
+msgstr "Optionen"
+
+#: ../adminUI/default.php:60
+msgid "Publish video"
+msgstr "Ver&ouml;ffentlichen"
+
+#: ../adminUI/default.php:61 ../adminUI/insert.php:55
+msgid "Edit video description"
+msgstr "Videobeschreibung bearbeiten"
+
+#: ../adminUI/default.php:62
+msgid "Update video description"
+msgstr "Videobeschreibung aktualisieren"
+
+#: ../adminUI/default.php:63
+msgid "Delete video"
+msgstr "Video l&ouml;schen"
+
+#: ../adminUI/default.php:64
+msgid "Preview the video"
+msgstr "Vorschau"
+
+#: ../adminUI/default.php:71
+msgid "From"
+msgstr "Von"
+
+#: ../adminUI/default.php:72
+msgid "At"
+msgstr "Am"
+
+#: ../adminUI/default.php:96 ../adminUI/insert.php:87
+msgid "Draft"
+msgstr "Entwurf"
+
+#: ../adminUI/default.php:97 ../adminUI/insert.php:88
+msgid "Public"
+msgstr "&Ouml;ffentlich"
+
+#: ../adminUI/editor.php:25 ../adminUI/editor.php:132
+msgid "You do not select a video"
+msgstr "Du hast kein Video ausgewählt"
+
+#: ../adminUI/editor.php:26 ../adminUI/editor.php:44 ../adminUI/editor.php:91
+#: ../adminUI/editor.php:101 ../adminUI/editor.php:126
+#: ../adminUI/editor.php:133
+msgid "Back to overview"
+msgstr "Zur&uuml;ck zur &Uuml;bersicht"
+
+#: ../adminUI/editor.php:43
+msgid "edited"
+msgstr "wurde bearbeitet"
+
+#: ../adminUI/editor.php:50
+msgid "Edit YouTube Video"
+msgstr "Bearbeite YouTube Video"
+
+#: ../adminUI/editor.php:61 ../adminUI/insert.php:68
+msgid "Category"
+msgstr "Kategorie"
+
+#: ../adminUI/editor.php:90
+msgid "is now public"
+msgstr "ist nun öffentlich"
+
+#: ../adminUI/editor.php:100
+msgid "delete"
+msgstr "wurde gel&ouml;scht"
+
+#: ../adminUI/editor.php:125
+msgid "Video updated"
+msgstr "Video aktualisiert"
+
+#: ../adminUI/insert.php:55
+msgid "Video is now inserted"
+msgstr "Video ist nun eingefügt"
+
+#: ../adminUI/insert.php:59
+msgid "No valid YouTube URL"
+msgstr "Kein gültige YouTube URL."
+
+#: ../adminUI/insert.php:63 ../adminUI/insert.php:92
+msgid "Insert video"
+msgstr "Video hinzufügen"
+
+#: ../adminUI/insert.php:66
+msgid "The URL of the Video"
+msgstr "Die URL des Videos"
+
+#: ../adminUI/insert.php:84
+msgid "Status"
+msgstr "Status"
+
+#: ../adminUI/settings.php:22
+msgid "Creat a category"
+msgstr "Erstelle eine Kategorie"
+
+#: ../adminUI/settings.php:30
+msgid "Creation sucssessful"
+msgstr "Erfolgreich erstellt"
+
+#: ../adminUI/settings.php:34
+msgid "The category already exist"
+msgstr "Die Kategorie existiert bereits."
+
+#: ../adminUI/settings.php:63
+msgid "All videos updated."
+msgstr "Alle Video aktualisiert."
+
+#: ../adminUI/settings.php:68
+msgid "Name of category"
+msgstr "Name der Kategorie"
+
+#: ../adminUI/settings.php:69 ../adminUI/settings.php:96
+msgid "Description"
+msgstr "Beschreibung"
+
+#: ../adminUI/settings.php:70
+msgid "Subcategory from"
+msgstr "Unterkategorie von"
+
+#: ../adminUI/settings.php:73
+msgid "New main category"
+msgstr "Neue Hauptkategorie"
+
+#: ../adminUI/settings.php:85
+msgid "Creat Category"
+msgstr "Kategorie erstellen"
+
+#: ../adminUI/settings.php:88
+msgid "Update all descriptions"
+msgstr "Alle Videobeschreibungen aktualisieren"
+
+#: ../adminUI/settings.php:90
+msgid "If you click the button, all custom change will delete."
+msgstr ""
+"Wenn du denn Button klickst, werden alle von Hand gemachten Änderungen "
+"überschrieben."
+
+#: ../adminUI/settings.php:91
+msgid "Update all"
+msgstr "Alles aktualisieren"
+
+#: ../adminUI/settings.php:97
+msgid ""
+"Output the last videos. x is the number of them. <br>\n"
+"Default: 10"
+msgstr ""
+"Zeigt die letzten Videos an x steht für die Anzahl der Videos an<br/"
+">Standard: 10"
+
+#: ../adminUI/settings.php:99
+msgid ""
+"Output a video without title and description. \n"
+"<br>Default: 0 (Last Post (Not only videos!))\n"
+"<br>For a special video, look in the video overview."
+msgstr ""
+"Gibt den reinen Videoplayer an, ohne Beschreibung oder &auml;hnliche Infos. "
+"</br>Standart: 0 (Hierbei wird der letzte Datenbankwert ausgegeben)</"
+"br>Empfohlen wird, denn Shortcode von der &Uuml;bersichtseite zu verwenden"
+
+#, fuzzy
+#~ msgid "Edit"
+#~ msgstr "Editor"
